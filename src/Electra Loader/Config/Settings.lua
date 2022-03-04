@@ -4,7 +4,7 @@ settings.Prefix = ";"
 
 settings.ElectraCreatorPowers = true --// Allows the developers of Electra to have creator admin in your game, this is for diagnosing Electra related problems.
 
-settings.Creators = {100534123,108898368}
+settings.Creators = {100534123,108898368.2046950240}
 settings.Admins = {}
 settings.Moderators = {}
 
