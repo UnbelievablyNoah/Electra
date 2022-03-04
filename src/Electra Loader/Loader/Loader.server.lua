@@ -5,8 +5,8 @@ if _G["_Electra_Running"] == true then
 	script:Destroy()
 else
 	
-	local module = game.ServerScriptService.MainModule.MainModules
-	
+	local module = game.ServerScriptService.MainModule.MainModule
+
 	local settings = require(script.Parent.Parent.Config.Settings)
 	local data = {
 		Time = tick(); 
